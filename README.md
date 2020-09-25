@@ -25,4 +25,4 @@ A(s,a) is advantage of action
   <img src=https://github.com/ironman-0-0-7/RL_supermario/blob/master/1%20SvSFYWx5-u5zf38baqBgyQ.png width="350" title="hover text">
 </p>
 
-why entropy term 
+
