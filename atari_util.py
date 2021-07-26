@@ -4,6 +4,10 @@ from gym.core import Wrapper
 from gym.spaces.box import Box
 
 
+
+
+
+
 class PreprocessAtari(Wrapper):
     def __init__(self, env, height=42, width=42, color=False,
                  crop=lambda img: img, n_frames=4, dim_order='pytorch', reward_scale=1):
